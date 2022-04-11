@@ -26,3 +26,7 @@ Support Vector Machine(SVM) is a supervised machine Learning algorithm used for 
 # Idea Behind
 The Basic Thought behind this project was to develop something which is very easy to use and easy to develop as well, cause as students we have some financial as well as time constraints if we are taking up any project. So we used one of the best classification algorithm SVM for the job and the results were highly satisfactory. After successful development of the algorithm came the GUI so we selected streamlit which is currently the favourite GUI tool for the job. 
 
+## Authors 
+- [@Unnati Mishra](https://github.com/unnati-m)
+- [@Shweta Rajan](https://github.com/Shweta2762)
+- [@Bezawada Sai Satwika](https://github.com/bvssatwika)
