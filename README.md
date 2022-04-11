@@ -10,7 +10,11 @@ Uses machine learning for detection
 Cross platform
 
 # Technologies Used
-![github](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=PYTHON&logoColor=white)]
+![github](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=PYTHON&logoColor=white)
+![github](https://img.shields.io/badge/NUMPY-000000?style=for-the-badge&logo=NUMPY&logoColor=blue)]
+![github](https://img.shields.io/badge/PANDAS-000000?style=for-the-badge&logo=PANDAS&logoColor=green)]
+![github](https://img.shields.io/badge/STREAMLIT-000000?style=for-the-badge&logo=STREAMLIT&logoColor=pink)]
+![github](https://img.shields.io/badge/JUPYTER-000000?style=for-the-badge&logo=JUPYTER&logoColor=orange)]
 
 # Dataset
 The Dataset for the model development contains more than 50k comments lablelled as fine or toxic. This is same for both english and hindi language. We had to clean the data to remove the special characters and include padding to maintain a certain length. Then Using the nltk library we used countVectorizer for the vectorization of our text data. Further using the data we trained the SVM model.
