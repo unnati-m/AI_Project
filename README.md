@@ -10,11 +10,13 @@ Uses machine learning for detection
 Cross platform
 
 # Technologies Used
-![github](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=PYTHON&logoColor=white)
-![github](https://img.shields.io/badge/NUMPY-000000?style=for-the-badge&logo=NUMPY&logoColor=blue)
-![github](https://img.shields.io/badge/PANDAS-000000?style=for-the-badge&logo=PANDAS&logoColor=green)
-![github](https://img.shields.io/badge/STREAMLIT-000000?style=for-the-badge&logo=STREAMLIT&logoColor=pink)
-![github](https://img.shields.io/badge/JUPYTER-000000?style=for-the-badge&logo=JUPYTER&logoColor=orange)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)]()
+[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)]()
+[![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)]()
+[![streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)]()
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)]()
+
 
 # Dataset
 The Dataset for the model development contains more than 50k comments lablelled as fine or toxic. This is same for both english and hindi language. We had to clean the data to remove the special characters and include padding to maintain a certain length. Then Using the nltk library we used countVectorizer for the vectorization of our text data. Further using the data we trained the SVM model.
