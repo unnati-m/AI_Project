@@ -4,10 +4,10 @@ This is a Natural Language Processing project which detects hate speech on Onlin
 This model can be used by any online forums and discussions websites so that a clean and disciplined environment can be maintained.
 
 # Features
-Easy to use GUI
-Supports multi language
-Uses machine learning for detection
-Cross platform
+1.Easy to use GUI
+2.Supports multi language
+3.Uses machine learning for detection
+4.Cross platform
 
 # Technologies Used
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
