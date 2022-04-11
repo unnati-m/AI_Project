@@ -4,8 +4,8 @@ This is a Natural Language Processing project which detects hate speech on Onlin
 This model can be used by any online forums and discussions websites so that a clean and disciplined environment can be maintained.
 
 # Features
-1.Easy to use GUI
-2.Supports multi language
+#1.Easy to use GUI
+#2.Supports multi language
 3.Uses machine learning for detection
 4.Cross platform
 
