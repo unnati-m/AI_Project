@@ -10,11 +10,7 @@ Uses machine learning for detection
 Cross platform
 
 # Technologies Used
-PYTHON
-NUMPY
-PANDAS
-STREAMLIT
-JUPYTER
+![github](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=PYTHON&logoColor=white)]
 
 # Dataset
 The Dataset for the model development contains more than 50k comments lablelled as fine or toxic. This is same for both english and hindi language. We had to clean the data to remove the special characters and include padding to maintain a certain length. Then Using the nltk library we used countVectorizer for the vectorization of our text data. Further using the data we trained the SVM model.
