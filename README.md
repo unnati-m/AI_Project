@@ -1,4 +1,4 @@
-## AI_Project-Multilingual Undesired Speech Detection
+## AI_Project
 ## Multilingual Undesired Speech Detection
 - This is a Natural Language Processing project which detects hate speech on Online forums. This project uses Support Vector Machine(SVM) for the classiification of the hate speech.
 - This model can be used by any online forums and discussions websites so that a clean and disciplined environment can be maintained.
